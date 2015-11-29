@@ -1,4 +1,4 @@
-# react-d3-map
+# react-d3-map-orthographic
 
 react-d3 interactive map with orthographic control panel
 
