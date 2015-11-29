@@ -1,6 +1,6 @@
 {
   "name": "react-d3-map-orthographic",
-  "version": "0.6.2",
+  "version": "0.1.0",
   "description": "react-d3 interactive map with orthographic control panel",
   "main": "./lib/index.js",
   "scripts": {
