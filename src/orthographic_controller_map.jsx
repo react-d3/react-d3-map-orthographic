@@ -21,6 +21,10 @@ export default class OrthographicControllerMap extends Component {
     super(props);
   }
 
+  shouldComponentUpdate() {
+    return false;
+  }
+
   render() {
 
     const {
