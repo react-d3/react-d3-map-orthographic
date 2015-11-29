@@ -1,0 +1,37 @@
+.polygon {
+  stroke: #CCC !important;
+  stroke-width: .5 !important;
+  fill: #333 !important;
+}
+
+.react-d3-map-mobile__extent {
+  fill: #933 !important;
+  opacity: .6 !important;
+}
+
+.react-d3-map-mobile__mercator_controller__polygon_group {
+  fill: blue !important;
+  opacity: .4 !important;
+}
+
+.react-d3-map-mobile__mercator_controller__line_group {
+  stroke: blue !important;
+  stroke-width: 3 !important;
+  opacity: .4 !important;
+}
+
+.react-d3-map-mobile__mercator_controller__point_group {
+  fill: blue !important;
+  opacity: .4 !important;
+  stroke-width: 1 !important;
+}
+
+.react-d3-map-mobile__land {
+  fill: rgb(84, 77, 69) !important;
+  stroke-opacity: 1 !important;
+}
+
+.react-d3-map-mobile__mesh {
+  fill: #CCC !important;
+  stroke-width: .2;
+}
