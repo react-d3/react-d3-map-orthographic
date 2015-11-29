@@ -2,6 +2,8 @@
 
 react-d3 interactive map with orthographic control panel
 
+based on https://github.com/react-d3/react-d3-map
+
 ## LIVE DEMO
 
 #### Multipolygon and Polygon
@@ -25,6 +27,7 @@ react-d3 interactive map with orthographic control panel
 
 var MapOrthographic = require('react-d3-map-orthographic').MapOrthographic;
 
+// import react-d3-map polygonGroup
 var PolygonGroup = require('react-d3-map').PolygonGroup;
 
 (function() {
@@ -84,6 +87,7 @@ var PolygonGroup = require('react-d3-map').PolygonGroup;
 
 var MapOrthographic = require('react-d3-map-orthographic').MMapOrthographic;
 
+// import react-d3-map LineGroup
 var LineGroup = require('react-d3-map').LineGroup;
 
 
@@ -177,6 +181,8 @@ var ReactDOM = require('react-dom');
 var topojson = require('topojson');
 
 var MapOrthographic = require('react-d3-map-orthographic').MapOrthographic;
+
+// import react-d3-map markerGroup
 var MarkerGroup = require('react-d3-map').MarkerGroup;
 
 var css= require('./css/polygon.css');
